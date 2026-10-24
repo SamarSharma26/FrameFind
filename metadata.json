@@ -1,0 +1,6 @@
+{
+  "name": "MiniMax",
+  "description": "The Editor's Resource Index — Curated sound effects, music, footage, LUTs, transitions, plugins, and creative tools for video editors and motion designers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
